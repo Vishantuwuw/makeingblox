@@ -81,7 +81,7 @@ title.Font=Enum.Font.GothamBold
 title.TextSize=22
 title.TextColor3=Color3.fromRGB(255,255,255)
 title.TextXAlignment=Enum.TextXAlignment.Left
-title.Text="holy sheet - vini"
+title.Text="TikTok/Youtube: Khngscript"
 
 local barBg=Instance.new("Frame",box)
 barBg.AnchorPoint=Vector2.new(0.5,0)
